@@ -1,0 +1,7 @@
+{
+  "name": "Nexus Agentic Intelligence System",
+  "description": "A production-grade Multi-Agent System (MAS) simulation platform for enterprise-level problem solving, autonomous reasoning, and system design visualization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
